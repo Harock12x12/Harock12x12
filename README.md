@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harock12x12
 - 👀 I’m interested in CSE
-- 🌱 I’m currently learning CSE
+- 🌱 I’m currently learning JavaScript and Git
 - 💞️ I’m looking to collaborate on TBD
 - 📫 How to reach me TBA
 
