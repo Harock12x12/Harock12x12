@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harock12x12
 - 👀 I’m interested in CSE
-- 🌱 I’m currently learning Ruby and Javascript
+- 🌱 I’m currently learning Ruby, Javascript, AI, Networking, and Computer Systems
 - 💞️ I’m looking to collaborate on TBD
 - 📫 How to reach me TBA
 
